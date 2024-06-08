@@ -17,7 +17,6 @@ This project is a Data Science Mini Project for Indus University, focusing on an
   - [Step 7: Implement Linear Regression](#step-7-implement-linear-regression)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -108,3 +107,9 @@ The dataset represents 5000 individual customer purchases with the following col
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/your-username/e-commerce-customer-analysis.git
+
+## License
+This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE.md file for details.
+
+## Contact
+[LinkedIn ](https://www.linkedin.com/in/shubhangi23/)
