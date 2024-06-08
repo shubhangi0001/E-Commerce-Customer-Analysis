@@ -108,6 +108,3 @@ The dataset represents 5000 individual customer purchases with the following col
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/your-username/e-commerce-customer-analysis.git
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
